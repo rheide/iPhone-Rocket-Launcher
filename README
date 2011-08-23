@@ -1,0 +1,9 @@
+Use your iPhone to connect to and control a USB rocket launcher
+
+Contains two examples of using the iPhone to connect to a Rocket launcher server and control the rocket launcher remotely. 
+
+Rock - Control the launcher with buttons
+Very basic app, doesn't support multiple actions at the same time (eg. down-left or up-right). 
+
+Rock2 - Control the launcher with the accelerometer
+Tilt the iPhone left/right (like changing orientation from portrait to landscape) to rotate the rocket launcher, and tilt it to control the up/down movement. This app doesn't support firing yet. 
